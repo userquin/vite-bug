@@ -1,0 +1,13 @@
+{
+  "name": "proto",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@prefresh/vite": "^2.0.0",
+    "preact": "^10.5.9",
+    "vite": "^2.1.5"
+  }
+}
